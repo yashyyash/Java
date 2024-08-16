@@ -1,3 +1,3 @@
-# Java Programs - Comprehensive Collection of Algorithms and Data Structures
+# Java Programs - Comprehensive Collection of Java Programs
 
-This repository contains a collection of Data Structures and Algorithms implemented in Java. It covers both fundamental and advanced topics, providing a strong foundation for Java developers.
+This repository contains a collection of Basic to Advance Java Programs. It covers both fundamental and advanced topics, providing a strong foundation for Java developers.
